@@ -1,0 +1,604 @@
+[{
+    "id": 1,
+    "tittle": "Pantech",
+    "model": "Pantech G600",
+    "mobile_OS": "Feature phone",
+    "release_date": 2004
+  }, 
+  {
+    "id": 2,
+    "tittle": "Bosch",
+    "model": "Bosch Com 906",
+    "mobile_OS": "Feature phone",
+    "release_date": 1996
+  }, 
+  {
+    "id": 3,
+    "tittle": "Toshiba",
+    "model": "Toshiba G810",
+    "mobile_OS": "Microsoft Windows Mobile 6.0 Professional",
+    "release_date": 2008
+  }, 
+  {
+    "id": 4,
+    "tittle": "Haier",
+    "model": "Haier U53",
+    "mobile_OS": "Feature phone",
+    "release_date": 2010
+  }, {
+    "id": 5,
+    "tittle": "ZTE",
+    "model": "ZTE Axon",
+    "mobile_OS": "Android 5.1.1",
+    "release_date": 2015
+  }, {
+    "id": 6,
+    "tittle": "Sony",
+    "model": "Sony Xperia Z1s",
+    "mobile_OS": "Android 4.3, up to 5.1",
+    "release_date": 2014
+  }, {
+    "id": 7,
+    "tittle": "Posh",
+    "model": "Posh Pegasus 4G S400",
+    "mobile_OS": "Android 4.2.2",
+    "release_date": 2014
+  }, {
+    "id": 8,
+    "tittle": "Xiaomi",
+    "model": "Xiaomi Mi 3",
+    "mobile_OS": "Android 4.3, up to 6.0, MIUI 5",
+    "release_date": 2013
+  }, {
+    "id": 9,
+    "tittle": "Allview",
+    "model": "Allview Soul X5 Style",
+    "mobile_OS": "Android 8.1",
+    "release_date": 2018
+  }, {
+    "id": 10,
+    "tittle": "O2",
+    "model": "O2 X2",
+    "mobile_OS": "Feature phone",
+    "release_date": 2004
+  }, {
+    "id": 11,
+    "tittle": "Gionee",
+    "model": "Gionee M7",
+    "mobile_OS": "Android 7.1, Amigo 5",
+    "release_date": 2017
+  }, {
+    "id": 12,
+    "tittle": "alcatel",
+    "model": "alcatel OT-C750",
+    "mobile_OS": "Feature phone",
+    "release_date": 2005
+  }, {
+    "id": 13,
+    "tittle": "ZTE",
+    "model": "ZTE Blade A7 Prime",
+    "mobile_OS": "Android 9.0",
+    "release_date": 2019
+  }, {
+    "id": 14,
+    "tittle": "Acer",
+    "model": "Acer Liquid Z4",
+    "mobile_OS": "Android 4.2.2",
+    "release_date": 2014
+  }, {
+    "id": 15,
+    "tittle": "Samsung",
+    "model": "Samsung M3310L",
+    "mobile_OS": "Feature phone",
+    "release_date": 2009
+  }, {
+    "id": 16,
+    "tittle": "Samsung",
+    "model": "Samsung T939 Behold 2",
+    "mobile_OS": "Android 1.5",
+    "release_date": 2009
+  }, {
+    "id": 17,
+    "tittle": "Nokia",
+    "model": "Nokia 9.3 PureView",
+    "mobile_OS": "Android 10, Android One",
+    "release_date": 0
+  }, {
+    "id": 18,
+    "tittle": "XOLO",
+    "model": "XOLO Era 1X",
+    "mobile_OS": "Android 6.0",
+    "release_date": 2016
+  }, {
+    "id": 19,
+    "tittle": "LG",
+    "model": "LG C105",
+    "mobile_OS": "Feature phone",
+    "release_date": 2010
+  }, {
+    "id": 20,
+    "tittle": "Lenovo",
+    "model": "Lenovo S750",
+    "mobile_OS": "Android 4.2.1",
+    "release_date": 2014
+  }, {
+    "id": 21,
+    "tittle": "Pantech",
+    "model": "Pantech Breeze III",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 22,
+    "tittle": "Orange",
+    "model": "Orange Monte Carlo",
+    "mobile_OS": "Android 2.3",
+    "release_date": 2011
+  }, {
+    "id": 23,
+    "tittle": "Panasonic",
+    "model": "Panasonic P77",
+    "mobile_OS": "Android 5.1",
+    "release_date": 2016
+  }, {
+    "id": 24,
+    "tittle": "Samsung",
+    "model": "Samsung S100",
+    "mobile_OS": "Feature phone",
+    "release_date": 2002
+  }, {
+    "id": 25,
+    "tittle": "vivo",
+    "model": "vivo NEX 3 5G",
+    "mobile_OS": "Android 9.0, up to Android 10, Funtouch 10",
+    "release_date": 2019
+  }, {
+    "id": 26,
+    "tittle": "Plum",
+    "model": "Plum Pilot Plus",
+    "mobile_OS": "Android 4.4.2",
+    "release_date": 2014
+  }, {
+    "id": 27,
+    "tittle": "Nokia",
+    "model": "Nokia 222",
+    "mobile_OS": "Feature phone",
+    "release_date": 2015
+  }, {
+    "id": 28,
+    "tittle": "Sony",
+    "model": "Sony CM-DX 1000",
+    "mobile_OS": "Feature phone",
+    "release_date": 1997
+  }, {
+    "id": 29,
+    "tittle": "Orange",
+    "model": "Orange San Diego",
+    "mobile_OS": "Android 2.3.7, up to 4.0.4",
+    "release_date": 2012
+  }, {
+    "id": 30,
+    "tittle": "LG",
+    "model": "LG Optimus L3 II Dual E435",
+    "mobile_OS": "Android 4.1.2",
+    "release_date": 2013
+  }, {
+    "id": 31,
+    "tittle": "Nokia",
+    "model": "Nokia 6210 Navigator",
+    "mobile_OS": "Symbian OS 9.3, S60 rel. 3.2",
+    "release_date": 2008
+  }, {
+    "id": 32,
+    "tittle": "Samsung",
+    "model": "Samsung E400",
+    "mobile_OS": "Feature phone",
+    "release_date": 2003
+  }, {
+    "id": 33,
+    "tittle": "Motorola",
+    "model": "Motorola C139",
+    "mobile_OS": "Feature phone",
+    "release_date": 2005
+  }, {
+    "id": 34,
+    "tittle": "T-Mobile",
+    "model": "T-Mobile Shadow 2",
+    "mobile_OS": "Microsoft Windows Mobile 6.1 Standard",
+    "release_date": 2009
+  }, {
+    "id": 35,
+    "tittle": "Celkon",
+    "model": "Celkon C867",
+    "mobile_OS": "Feature phone",
+    "release_date": 2010
+  }, {
+    "id": 36,
+    "tittle": "BLU",
+    "model": "BLU Life XL",
+    "mobile_OS": "Android 5.1",
+    "release_date": 2016
+  }, {
+    "id": 37,
+    "tittle": "Samsung",
+    "model": "Samsung i600",
+    "mobile_OS": "Microsoft Windows Mobile 5.0 Smartphone",
+    "release_date": 2006
+  }, {
+    "id": 38,
+    "tittle": "BLU",
+    "model": "BLU Samba Mini",
+    "mobile_OS": "Feature phone",
+    "release_date": 2010
+  }, {
+    "id": 39,
+    "tittle": "Sony",
+    "model": "Sony Xperia L2",
+    "mobile_OS": "Android 7.1.1",
+    "release_date": 2018
+  }, {
+    "id": 40,
+    "tittle": "Sony",
+    "model": "Sony Xperia XA2 Plus",
+    "mobile_OS": "Android 8.0",
+    "release_date": 2018
+  }, {
+    "id": 41,
+    "tittle": "Celkon",
+    "model": "Celkon i9",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 42,
+    "tittle": "Plum",
+    "model": "Plum Trip",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 43,
+    "tittle": "alcatel",
+    "model": "alcatel Pop D5",
+    "mobile_OS": "Android 4.4.2",
+    "release_date": 2014
+  }, {
+    "id": 44,
+    "tittle": "Oppo",
+    "model": "Oppo A52",
+    "mobile_OS": "Android 10, ColorOS 7.1",
+    "release_date": 2020
+  }, {
+    "id": 45,
+    "tittle": "Celkon",
+    "model": "Celkon Campus Whizz Q42",
+    "mobile_OS": "Android 4.4",
+    "release_date": 2014
+  }, {
+    "id": 46,
+    "tittle": "Lenovo",
+    "model": "Lenovo A6000",
+    "mobile_OS": "Android 4.4.4",
+    "release_date": 2015
+  }, {
+    "id": 47,
+    "tittle": "alcatel",
+    "model": "alcatel OT-282",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 48,
+    "tittle": "Honor",
+    "model": "Honor 9X",
+    "mobile_OS": "Android 9.0, EMUI 9.1",
+    "release_date": 2019
+  }, {
+    "id": 49,
+    "tittle": "Sewon",
+    "model": "Sewon SG-P100",
+    "mobile_OS": "Feature phone",
+    "release_date": 2004
+  }, {
+    "id": 50,
+    "tittle": "LG",
+    "model": "LG Enlighten VS700",
+    "mobile_OS": "Android 2.3",
+    "release_date": 2011
+  }, {
+    "id": 51,
+    "tittle": "Xiaomi",
+    "model": "Xiaomi Redmi Note 9 5G",
+    "mobile_OS": "Android 10, MIUI 12",
+    "release_date": 2020
+  }, {
+    "id": 52,
+    "tittle": "Bird",
+    "model": "Bird S288 Plus",
+    "mobile_OS": "Feature phone",
+    "release_date": 2003
+  }, {
+    "id": 53,
+    "tittle": "Haier",
+    "model": "Haier M1200",
+    "mobile_OS": "Feature phone",
+    "release_date": 2005
+  }, {
+    "id": 54,
+    "tittle": "Huawei",
+    "model": "Huawei U120",
+    "mobile_OS": "Feature phone",
+    "release_date": 2007
+  }, {
+    "id": 55,
+    "tittle": "Lenovo",
+    "model": "Lenovo IdeaTab S6000",
+    "mobile_OS": "Android 4.2.2",
+    "release_date": 2013
+  }, {
+    "id": 56,
+    "tittle": "Plum",
+    "model": "Plum Wicked",
+    "mobile_OS": "Android 2.2",
+    "release_date": 2012
+  }, {
+    "id": 57,
+    "tittle": "Huawei",
+    "model": "Huawei T156",
+    "mobile_OS": "Feature phone",
+    "release_date": 2008
+  }, {
+    "id": 58,
+    "tittle": "BLU",
+    "model": "BLU Dash Music JR",
+    "mobile_OS": "Android 4.4.2",
+    "release_date": 2014
+  }, {
+    "id": 59,
+    "tittle": "Nokia",
+    "model": "Nokia C5 5MP",
+    "mobile_OS": "Symbian 9.3, Series 60 rel. 3.2",
+    "release_date": 2011
+  }, {
+    "id": 60,
+    "tittle": "HP",
+    "model": "HP iPAQ h6320",
+    "mobile_OS": "Microsoft Windows Mobile 2003 Poc&hellip;",
+    "release_date": 2004
+  }, {
+    "id": 61,
+    "tittle": "Sony",
+    "model": "Sony Ericsson J220",
+    "mobile_OS": "Feature phone",
+    "release_date": 2005
+  }, {
+    "id": 62,
+    "tittle": "Nokia",
+    "model": "Nokia N78",
+    "mobile_OS": "Symbian, S60 rel. 3.2",
+    "release_date": 2008
+  }, {
+    "id": 63,
+    "tittle": "alcatel",
+    "model": "alcatel OT-508A",
+    "mobile_OS": "Feature phone",
+    "release_date": 2010
+  }, {
+    "id": 64,
+    "tittle": "Nokia",
+    "model": "Nokia 8",
+    "mobile_OS": "Android 7.1.1, up to Android 9.0",
+    "release_date": 2017
+  }, {
+    "id": 65,
+    "tittle": "BLU",
+    "model": "BLU Studio View XL",
+    "mobile_OS": "Android 7.0",
+    "release_date": 2018
+  }, {
+    "id": 66,
+    "tittle": "Xiaomi",
+    "model": "Xiaomi Mi Max 3",
+    "mobile_OS": "Android 8.1, up to Android 10, MIUI 12",
+    "release_date": 2018
+  }, {
+    "id": 67,
+    "tittle": "Samsung",
+    "model": "Samsung Galaxy A01 Core",
+    "mobile_OS": "Android 10",
+    "release_date": 2020
+  }, {
+    "id": 68,
+    "tittle": "Micromax",
+    "model": "Micromax Canvas Nitro 2 E311",
+    "mobile_OS": "Android 4.4.2",
+    "release_date": 2015
+  }, {
+    "id": 69,
+    "tittle": "ZTE",
+    "model": "ZTE Xiang",
+    "mobile_OS": "Microsoft Windows Mobile 6.1 Professional",
+    "release_date": 2009
+  }, {
+    "id": 70,
+    "tittle": "Prestigio",
+    "model": "Prestigio MultiPhone 5450 Duo",
+    "mobile_OS": "Android 4.2",
+    "release_date": 2014
+  }, {
+    "id": 71,
+    "tittle": "Motorola",
+    "model": "Motorola Moto G Stylus",
+    "mobile_OS": "Android 10",
+    "release_date": 2020
+  }, {
+    "id": 72,
+    "tittle": "Tecno",
+    "model": "Tecno Spark 3 Pro",
+    "mobile_OS": "Android 9.0, HIOS 5.0",
+    "release_date": 2019
+  }, {
+    "id": 73,
+    "tittle": "Sony",
+    "model": "Sony Ericsson J132",
+    "mobile_OS": "Feature phone",
+    "release_date": 2009
+  }, {
+    "id": 74,
+    "tittle": "Allview",
+    "model": "Allview X3 Soul Lite",
+    "mobile_OS": "Android 6.0",
+    "release_date": 2016
+  }, {
+    "id": 75,
+    "tittle": "Motorola",
+    "model": "Motorola W396",
+    "mobile_OS": "Feature phone",
+    "release_date": 2008
+  }, {
+    "id": 76,
+    "tittle": "Ericsson",
+    "model": "Ericsson T10s",
+    "mobile_OS": "Feature phone",
+    "release_date": 1999
+  }, {
+    "id": 77,
+    "tittle": "Bird",
+    "model": "Bird S570",
+    "mobile_OS": "Feature phone",
+    "release_date": 2004
+  }, {
+    "id": 78,
+    "tittle": "Huawei",
+    "model": "Huawei nova 5i Pro",
+    "mobile_OS": "Android 9.0, EMUI 9.1",
+    "release_date": 2019
+  }, {
+    "id": 79,
+    "tittle": "Meizu",
+    "model": "Meizu C9",
+    "mobile_OS": "Android 8.0, Flyme UI",
+    "release_date": 2018
+  }, {
+    "id": 80,
+    "tittle": "Haier",
+    "model": "Haier C300",
+    "mobile_OS": "Feature phone",
+    "release_date": 2018
+  }, {
+    "id": 81,
+    "tittle": "Celkon",
+    "model": "Celkon C88",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 82,
+    "tittle": "Asus",
+    "model": "Asus Zenfone 4 Pro ZS551KL",
+    "mobile_OS": "Android 7.1.1, up to Android 8, ZenUI 4",
+    "release_date": 2017
+  }, {
+    "id": 83,
+    "tittle": "Samsung",
+    "model": "Samsung E1230",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 84,
+    "tittle": "Xiaomi",
+    "model": "Xiaomi Redmi Note 7",
+    "mobile_OS": "Android 9.0, planned upgrade to 10, MIUI 12",
+    "release_date": 2019
+  }, {
+    "id": 85,
+    "tittle": "VK",
+    "model": "VK Mobile VK520",
+    "mobile_OS": "Feature phone",
+    "release_date": 2004
+  }, {
+    "id": 86,
+    "tittle": "Lava",
+    "model": "Lava X28",
+    "mobile_OS": "Android 6.0",
+    "release_date": 2016
+  }, {
+    "id": 87,
+    "tittle": "LG",
+    "model": "LG GT505",
+    "mobile_OS": "Feature phone",
+    "release_date": 2009
+  }, {
+    "id": 88,
+    "tittle": "Xiaomi",
+    "model": "Xiaomi Mi 4s",
+    "mobile_OS": "Android 5.1, up to 7.0, MIUI 10",
+    "release_date": 2016
+  }, {
+    "id": 89,
+    "tittle": "OnePlus",
+    "model": "OnePlus 7",
+    "mobile_OS": "Android 9.0, up to 10, OxygenOS 10.0.5",
+    "release_date": 2019
+  }, {
+    "id": 90,
+    "tittle": "Oppo",
+    "model": "Oppo Reno2",
+    "mobile_OS": "Android 9.0, planned upgrade to 10",
+    "release_date": 2019
+  }, {
+    "id": 91,
+    "tittle": "Celkon",
+    "model": "Celkon C555",
+    "mobile_OS": "Feature phone",
+    "release_date": 2011
+  }, {
+    "id": 92,
+    "tittle": "LG",
+    "model": "LG L35",
+    "mobile_OS": "Android OS",
+    "release_date": 2014
+  }, {
+    "id": 93,
+    "tittle": "LG",
+    "model": "LG G7 One",
+    "mobile_OS": "Android 8.1, up to Android 10, Android One",
+    "release_date": 2018
+  }, {
+    "id": 94,
+    "tittle": "Huawei",
+    "model": "Huawei Y7 (2018)",
+    "mobile_OS": "Android 8.0, EMUI 8",
+    "release_date": 2018
+  }, {
+    "id": 95,
+    "tittle": "ZTE",
+    "model": "ZTE Blade G",
+    "mobile_OS": "Android 4.4.2",
+    "release_date": 2015
+  }, {
+    "id": 96,
+    "tittle": "Motorola",
+    "model": "Motorola E770",
+    "mobile_OS": "Feature phone",
+    "release_date": 2005
+  }, {
+    "id": 97,
+    "tittle": "HTC",
+    "model": "HTC Evo 4G+",
+    "mobile_OS": "Android 2.3.4, up to 4.0.3, Sense UI 3",
+    "release_date": 2011
+  }, {
+    "id": 98,
+    "tittle": "BLU",
+    "model": "BLU Tank Xtreme Pro",
+    "mobile_OS": "Android 7.0",
+    "release_date": 2017
+  }, {
+    "id": 99,
+    "tittle": "Sharp",
+    "model": "Sharp FX",
+    "mobile_OS": "Feature phone",
+    "release_date": 2010
+  }, {
+    "id": 100,
+    "tittle": "Sony",
+    "model": "Sony Ericsson Xperia mini pro",
+    "mobile_OS": "Android 2.3, 4.0, not up to 4.1",
+    "release_date": 2011
+  }]

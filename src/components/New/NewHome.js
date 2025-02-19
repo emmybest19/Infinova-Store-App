@@ -1,0 +1,117 @@
+const NewHome = [
+    {
+        id: "1",
+        image: "images/game 3.avif",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N6,840.00",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "2",
+        image: "images/game 10.avif",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N17,342.12",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "3",
+        image: "images/home-appliance.jpg",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N5,425.54",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "4",
+        image: "images/iphones.avif",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N18,145.00",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "5",
+        image: "images/realistic-house.avif",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N2,500.85",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "6",
+        image: "images/remote-control.jpg",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N9,250.00",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "7",
+        image: "images/smartphone-earphones.jpg",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N9,250.00",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    },
+    {
+        id: "8",
+        image: "images/speaker.avif",
+        describe: "A full-frame DSLR 45.7MP...",
+        star: "⭐⭐⭐⭐⭐",
+        currency: "NGN",
+        amount: "5,243",
+        kobo: ".25",
+        formal: "NGN15,425,36",
+        choice: "Choice",
+        shipping: "N9,250.00",
+        total: "NGN16,085.1",
+        button: "Add to cart"
+    }
+    
+];
+
+export default NewHome;
