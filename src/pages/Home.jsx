@@ -5,12 +5,12 @@ import SupperDeals from "../components/SupperDeals/SupperDeals";
 import Bestselling from "../components/BestSelling/Bestselling";
 
 
-function Home() {
+function Home({mainPosts}) {
     return (
         <div className="dark:bg-real transition-all">
            
             <HeroSection />
-            <FlashSalesCard />
+            <FlashSalesCard  mainPosts={mainPosts} />
             <New />
             <SupperDeals />
             <Bestselling />

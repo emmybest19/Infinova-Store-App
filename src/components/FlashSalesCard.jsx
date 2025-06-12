@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 import Cart from './Cart'
 import { useCart } from "react-use-cart";
 
-function FlashSalesCard() {
+function FlashSalesCard({mainPosts}) {
   const {addItem} = useCart();
   const Navigate = useNavigate();
   const [isOpen, setIsOpen] = useState({ display: "none" });
@@ -25,7 +25,7 @@ function FlashSalesCard() {
           //   setIsOpen({ display: "none" });
           // }}
         >
-          {sales.map((card, idx) => (
+          {mainPosts.map((card, idx) => (
             <div
               key={idx}
               className=" flex flex-col justify-start shadow-lg p-3 rounded-lg space-y-2 hover:scale-110 transition-all bg-white dark:bg-third dark:text-white"

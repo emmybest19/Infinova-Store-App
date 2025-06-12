@@ -8,9 +8,9 @@ import { LowerOther } from "./LowerOther";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { useNavigate } from "react-router-dom";
 import { MainIcon } from "./MainIcon";
-import { Navigate } from "react-router-dom";
+// import { Navigate } from "react-router-dom";
 
-const Header = () => {
+const Header = ({posts, setPosts}) => {
   const [Mobile, setMobile] = useState(false);
 
   const mobileHandler = () => {
@@ -22,7 +22,7 @@ const Header = () => {
     <div className="relative max-w-[1500px] mx-auto w-screen ">
       <div className=" w-screen text-md items-center fixed top-0 px-16  bg-brown-orange z-50 py-4 dark:bg-real hidden md:block ">
         <div className="flex justify-between">
-          <RightSideHeader />
+          <RightSideHeader posts={posts} setPosts={setPosts}/>
 
           <LeftHeader />
         </div>

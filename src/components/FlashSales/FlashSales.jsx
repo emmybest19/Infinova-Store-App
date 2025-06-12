@@ -1,11 +1,11 @@
 import React from "react";
 import { BsCart } from "react-icons/bs";
-import Flash from "./Flash";
+// import Flash from "./Flash";
 import { useCart } from "react-use-cart";
 import { motion } from "framer-motion";
 
 
-function FlashSales() {
+function FlashSales({mainPosts}) {
   const {addItem} = useCart();
   return (
     <div 
@@ -20,7 +20,7 @@ function FlashSales() {
       className="bg-light px-3 dark:bg-black">
         <div className="flex  justify-center flex-wrap content-center mt-1 gap-4 dark:bg-black">
 
-          {Flash.map((flash, idx) => (
+          {mainPosts.map((flash, idx) => (
             <div
               key={idx}
               className=" flex flex-col justify-start shadow-lg p-3 rounded-lg space-y-2 hover:scale-110 transition-all "

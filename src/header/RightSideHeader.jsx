@@ -4,9 +4,14 @@ import { MainIcon } from "./MainIcon";
 import { useNavigate } from "react-router-dom";
 import sales from "../components/FlashSales/sales";
 
-const RightSideHeader = () => {
+const RightSideHeader = ({posts, setPosts}) => {
   const navigate = useNavigate();
-  const [post, setPost] = useState("");
+  // const [post, setPost] = useState("");
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    // setPosts("");
+  }
 
   return (
     <div className="flex items-center justify-between gap-10 cursor-pointer">
@@ -20,15 +25,16 @@ const RightSideHeader = () => {
         </p>
       </button>
       <div className="flex items-center justify-start relative">
-        <form action="" className="w-72">
+        <form action="" className="w-72" onSubmit={handleSubmit}>
           <input
             className="relative w-[200px] pl-9 pr-4 py-2 placeholder:italic placeholder:font-medium placeholder:fill-light  border-opacity-5 rounded-md focus:w-[550px] solid transition-all dark:bg-third dark:focus:border-second focus:border-2 outline-none dark:text-white"
             type="text"
+            value={posts}
             placeholder="Quick Search...."
-            onChange={(event) => setPost(event.target.value)}
+            onChange={(e) => setPosts(e.target.value)}
           />
           <div className="flex justify-between gap-3 absolute  top-14 w-60 bg-brown">
-            {sales
+            {/* {sales
               .filter((card) => {
                 if (post === "") {
                   return;
@@ -90,7 +96,8 @@ const RightSideHeader = () => {
                   </div>
                 </div>
               ))}
-          </div>
+           */}
+           </div>
           <div className="bg-brown w-[38px] h-[40px] fixed top-5 left-60 rounded-l-md flex justify-center dark:bg-second">
             <SearchIcon className="fill-white w-6 top-5" />
           </div>
