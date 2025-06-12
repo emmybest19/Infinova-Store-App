@@ -10,7 +10,7 @@ import DownFooter from "./components/Footer/DownFooter";
 import UpperFooter from "./components/Footer/UpperFooter";
 import Login from "./components/Login";
 import Register from "./components/Register";
-import { CartProvider, useCart } from "react-use-cart";
+import { CartProvider } from "react-use-cart";
 import Cart from "./components/Cart";
 import { useState } from "react";
 // import sales from "./components/FlashSales/sales";

@@ -1,12 +1,10 @@
 import { useCart } from "react-use-cart";
-import Flash from "./FlashSales/Flash";
 import sales from "./FlashSales/sales";
 
 const Cart = () => {
   const {
     isEmpty,
     totalUniqueItems,
-    items,
     totalItems,
     cartTotal,
     updateItemQuantity,

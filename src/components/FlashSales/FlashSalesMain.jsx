@@ -1,5 +1,5 @@
 import React from "react";
-import { BsCart } from "react-icons/bs";
+
 import Flash from "./Flash";
 
 function FlashSalesMain() {

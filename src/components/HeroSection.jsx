@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import fadein from './varient'
+
 
 import records from "./records";
 import Carousel from "./Carousel";

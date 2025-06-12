@@ -1,4 +1,4 @@
-import Header from "../header/Header";
+
 import SupperDealsMainFirst from "../components/SupperDeals/SuperDealsMainFirst";
 
 function SuperDeals() {

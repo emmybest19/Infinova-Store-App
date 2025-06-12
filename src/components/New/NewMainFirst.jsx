@@ -1,5 +1,4 @@
 import React from "react";
-import { BiChevronRight } from "react-icons/bi";
 import NewMain from "./NewMain";
 function NewMainFirst() {
     return (

@@ -1,5 +1,5 @@
 import React from "react";
-import { FaCartPlus, FaDark } from "react-icons/fa";
+import { FaCartPlus} from "react-icons/fa";
 import { ContactIcon } from "./ContactIcon";
 import { BiChevronDown, BiChevronUp } from "react-icons/bi";
 

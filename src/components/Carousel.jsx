@@ -1,17 +1,18 @@
-import { useState, useEffect } from "react";
-import React from "react";
+import { useState, useEffect, useCallback } from "react";
+
 
 import { BsArrowRightCircleFill, BsArrowLeftCircleFill } from "react-icons/bs";
 
 const Carousel = ({ data }) => {
   const [slide, setSlide] = useState(0);
 
-  const nextSlide = () => {
-    setSlide(slide === data.length - 1 ? 0 : slide + 1);
-  };
-  const previousSlide = () => {
-    setSlide(slide === 0 ? data.length - 1 : slide - 1);
-  };
+  const nextSlide = useCallback(() => {
+    setSlide((prevSlide) => (prevSlide === data.length - 1 ? 0 : prevSlide + 1));
+  }, [data.length]);
+
+  const previousSlide = useCallback(() => {
+    setSlide((prevSlide) => (prevSlide === 0 ? data.length - 1 : prevSlide - 1));
+  }, [data.length]);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -19,7 +20,7 @@ const Carousel = ({ data }) => {
     }, 3000);
 
     return () => clearInterval(interval);
-  }, [slide]);
+  }, [nextSlide]);
 
   return (
     <div className="flex w-screen md:w-96 h-96 relative rounded-md">

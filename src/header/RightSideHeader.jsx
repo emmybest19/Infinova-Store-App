@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { SearchIcon } from "./SearchIcon";
 import { MainIcon } from "./MainIcon";
 import { useNavigate } from "react-router-dom";
-import sales from "../components/FlashSales/sales";
+
 
 const RightSideHeader = ({posts, setPosts}) => {
   const navigate = useNavigate();

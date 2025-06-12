@@ -1,5 +1,4 @@
 import React from "react";
-import { BsCart } from "react-icons/bs";
 import SuperDealsHome from "./SuperDealsHome";
 import { BiChevronRight } from "react-icons/bi";
 import { useNavigate } from "react-router-dom";

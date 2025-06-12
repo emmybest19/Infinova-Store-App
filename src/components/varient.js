@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/type"
+
 
 const fadein = (direction, delay ) => {
     return {

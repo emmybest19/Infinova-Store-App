@@ -1,7 +1,7 @@
 import React from "react";
-import { BsCart } from "react-icons/bs";
+
 import SuperDealsMain from "./SuperDealsMain";
-import { BiChevronRight } from "react-icons/bi";
+
 
 function SupperDealsMainFirst() {
   return (

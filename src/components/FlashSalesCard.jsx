@@ -1,15 +1,14 @@
-import React, { useState } from "react";
-import { BsCart } from "react-icons/bs";
-import sales from "./FlashSales/sales"; //
+import React from "react";
+
 import { BiChevronRight } from "react-icons/bi";
 import { useNavigate } from "react-router-dom";
-import Cart from './Cart'
+
 import { useCart } from "react-use-cart";
 
 function FlashSalesCard({mainPosts}) {
   const {addItem} = useCart();
   const Navigate = useNavigate();
-  const [isOpen, setIsOpen] = useState({ display: "none" });
+  // const [isOpen, setIsOpen] = useState({ display: "none" });
   return (
     <div className="px-0 md:px-16 mt-2 md:mt-4 dark:bg-real border-none">
       <div className="bg-light px-3 py-3 dark:bg-real">
